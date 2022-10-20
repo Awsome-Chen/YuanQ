@@ -1,7 +1,7 @@
 from PyQt5 import QtWidgets
 
-from UI import main_window
-from UI import address_box
+import main_window
+import address_box
 
 import sys
 
